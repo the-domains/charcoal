@@ -1,14 +1,28 @@
-layout_spectrum: 0.9426523
-color:
-  saturation: 0.9683819
-  lightness: 0.3714858
-  brandStrength: 0.903145
-  brandColors:
-    - '#1F150D'
-    - '#FFFFFF'
-    - '#E0B35D'
-    - '#887F80'
-    - '#5C432F'
-  rhythmicContrast: 0.2295523
-typography_spectrum: 0.9408602
 name: 'Charcoal '
+favicon: null
+layout_spectrum: 0.9426523
+typography_spectrum: 0.9408602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#929ca5'
+    - '#5a5f63'
+    - '#bb391a'
+    - '#fef0a0'
+  brandStrength: 0.875
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
