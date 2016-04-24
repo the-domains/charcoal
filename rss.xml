@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Charcoal ]]></title>
-        <description><![CDATA[Charcoal ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A collection of the most exquisite foods... because I live to eat.]]></title>
+        <description><![CDATA[A collection of the most exquisite foods... because I live to eat.]]></description>
+        <link>https://thegrid.ai/charcoal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:22:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 20:57:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charcoal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Want Some of This Texas Barbecue? Get in Line. For 3 Hours or Longer.]]></title>
+            <description><![CDATA[<article><h1>Want Some of This Texas Barbecue? Get in Line. For 3 Hours or Longer.</h1><p>AUSTIN, Tex. - At Franklin Barbecue, people pull up at dawn or shortly thereafter and spend their breakfast hours waiting for lunch. Rain or shine, six days a week, hundreds of men, women and children wait three to five hours or longer to eat some of the most celebrated smoked beef brisket in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3c470b7cb35e70de55afc81e462ba00e318010.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/2016/01/28/us/for-mavens-of-meat-no-fast-lane-to-slow-cooked-texas-brisket.html?referer=</link>
+            <guid isPermaLink="false">f4c0e5ca-64ac-45ec-b84f-5574a66a1b43</guid>
+            <pubDate>Sun, 24 Apr 2016 20:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Safeguarding Pesto]]></title>
             <description><![CDATA[<article><h1>Safeguarding Pesto</h1><p>How one man got the world making pesto by hand</p></article>]]></description>
-            <link>undefinedsafeguarding-pesto/index.html</link>
+            <link>https://thegrid.ai/charcoal/safeguarding-pesto/index.html</link>
             <guid isPermaLink="false">78f78a59-afa4-4722-bc83-607b7d87b0a5</guid>
             <pubDate>Sat, 16 Apr 2016 13:22:13 GMT</pubDate>
         </item>
